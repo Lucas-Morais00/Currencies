@@ -1,9 +1,8 @@
 # Currencies
 
-Projeto criado durante a Maratona Python do curso Técnicas de Invasão
+Project developed during _Maratona Python_ from the course _Técnicas de Invasão_
 
-Desenvolvido usando as bibliotecas: <h3>Requests</h3><h3>BeautifulSoup</h3><h3>Babel</h3>
+Made using the libraries: <h3>Requests</h3><h3>BeautifulSoup</h3><h3>Babel</h3>
 <hr>
 
-Web-Scrapping que coleta o valor atualizado de duas moedas(currencies) e faz a transformação de uma para a outra
-
+Web-Scrapping that gets the updated value of two currencies and exchanges them
